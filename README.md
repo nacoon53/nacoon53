@@ -6,8 +6,8 @@
 
 <div><h4> 🏆 Certificate</h4></div>
 <ul>
-  <li>정보처리기사</li>
-  <li>정보처리기능사</li>
+  <li>Engineer Information Processing(정보처리기사)</li>
+  <li>Craftsman Information Processing(정보처리기능사)</li>
   <li>SQLD</li>
 </ul>
 
